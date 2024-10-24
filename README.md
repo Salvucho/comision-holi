@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **salvadorcamisani@gmail.com**
 
-- ⚡ Fun fact **I love learning new stuff and i would work free of charge if i can do so.**
+- ⚡ Fun fact **I love learning new stuff and i would work free of charge if i could.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
