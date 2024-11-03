@@ -1,0 +1,64 @@
+/* INDEX*/
+header {
+  background-color: azure;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline; }
+  header img nav div a {
+    text-decoration: none; }
+    header img nav div a button div ul {
+      list-style: none;
+      display: flex; }
+      header img nav div a button div ul li {
+        border: 2px solid black;
+        margin: 1px;
+        background-color: #f1b6fd; }
+        header img nav div a button div ul li a {
+          text-decoration: none; }
+
+/* PRENDAS */
+/* INDEX*/
+main {
+  background-color: #fae9ff; }
+  main section {
+    text-align: center;
+    height: 39vh;
+    display: flex;
+    justify-content: center; }
+    main section a {
+      text-decoration: none; }
+    main section img p {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+
+/* PRENDAS*/
+main {
+  background-color: #fae9ff; }
+  main section {
+    text-align: center; }
+    main section h1 {
+      text-align: center; }
+    main section p section {
+      text-align: center; }
+      main section p section h2 p a {
+        text-decoration: none; }
+      main section p section h2 p img {
+        width: 90%; }
+
+/* NOSOTROS*/
+main {
+  background-color: #fae9ff; }
+
+section {
+  text-align: center; }
+  section h1 {
+    text-align: center; }
+    section h1 h2 section {
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      section h1 h2 section img {
+        height: 30%;
+        width: 40%; }
+        section h1 h2 section img p p {
+          padding: 10px; }
