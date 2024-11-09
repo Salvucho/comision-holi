@@ -1,32 +1,160 @@
 /* INDEX*/
-header{background-color: azure;
+header {
+    background-color: azure;
 
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    img{
-    
-        nav{
 
-            div{
-                a{text-decoration: none;
-                    button{
-                            div{
-                                ul{list-style: none;
-                                    display: flex;
-                                    li{border: 2px solid black;
-                                        margin: 1px;
-                                        background-color: rgb(241, 182, 253);
-                                        a{text-decoration: none;
+    img {
 
-                                        }
+        nav {
+
+            div {
+                a {
+                    text-decoration: none;
+
+                    button {
+                        div {
+                            ul {
+                                list-style: none;
+                                display: flex;
+
+                                li {
+                                    border: 2px solid black;
+                                    margin: 1px;
+                                    background-color: rgb(241, 182, 253);
+
+                                    a {
+                                        text-decoration: none;
+
                                     }
                                 }
                             }
+                        }
                     }
                 }
             }
         }
     }
 }
+
 /* PRENDAS */
+header {
+    background-color: azure;
+
+    img {
+        nav {
+            div {
+                a {
+                    text-decoration: none;
+
+                    button {
+                        span {
+                            div {
+                                ul {
+                                    list-style: none;
+                                    display: flex;
+
+                                    li {
+                                        border: 2px solid black;
+                                        margin: 1px;
+                                        background-color: rgb(241, 182, 253);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* NOSOTROS*/
+header {
+    background-color: azure;
+
+    img {
+        nav {
+            div {
+
+
+                a {
+                    text-decoration: none;
+
+                    ul {
+                        list-style: none;
+                        display: flex;
+
+                        li {
+                            border: 2px solid black;
+                            margin: 1px;
+                            background-color: rgb(241, 182, 253);
+
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+/* DESTACADOS*/
+header {
+    background-color: azure;
+
+    img {
+        nav {
+            div {
+
+
+                a {
+                    text-decoration: none;
+
+                    ul {
+                        list-style: none;
+                        display: flex;
+
+                        li {
+                            border: 2px solid black;
+                            margin: 1px;
+                            background-color: rgb(241, 182, 253);
+
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+/* CONTACTO*/
+header {
+    background-color: azure;
+
+    img {
+        nav {
+            div {
+
+
+                a {
+                    text-decoration: none;
+
+                    ul {
+                        list-style: none;
+                        display: flex;
+
+                        li {
+                            border: 2px solid black;
+                            margin: 1px;
+                            background-color: rgb(241, 182, 253);
+
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

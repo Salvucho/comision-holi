@@ -68,6 +68,9 @@ main section {
 footer {
     background-color: azure;
 }
+script{
+    opacity: 0;
+}
 
 
 
